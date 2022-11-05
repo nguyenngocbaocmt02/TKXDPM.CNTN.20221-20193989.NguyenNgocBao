@@ -12,3 +12,7 @@ Hoàn thành tài liệu SRS (Đã hoàn thành)
 # Lab03
 ## Tasks
 Hoàn thành communication diagram và interaction diagram cho PayOrder, PlaceOrder, PlaceRushOrder (Đã hoàn thành)
+
+# Lab04
+## Tasks
+Hoàn thành các bản thiết kế screen cho hệ thống (Có đính kèm các file fxml và file images gốc sử dụng trong thư mục file_fxml và assets), thiết kế chi tiết từng màn hình trong file screen specification và sơ đồ chuyển màn hình (Đã hoàn thành)
