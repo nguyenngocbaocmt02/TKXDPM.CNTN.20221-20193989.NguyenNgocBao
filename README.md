@@ -16,3 +16,7 @@ Hoàn thành communication diagram và interaction diagram cho PayOrder, PlaceOr
 # Lab04
 ## Tasks
 Hoàn thành các bản thiết kế screen cho hệ thống (Có đính kèm các file fxml và file images gốc sử dụng trong thư mục file_fxml và assets), thiết kế chi tiết từng màn hình trong file screen specification và sơ đồ chuyển màn hình (Đã hoàn thành)
+
+# Lab05
+## Tasks
+Hoàn thành các bản thiết kế cho subsystems (các class diagrams và sequence diagrams), có đính kèm file Asta
