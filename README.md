@@ -20,3 +20,8 @@ Hoàn thành các bản thiết kế screen cho hệ thống (Có đính kèm c�
 # Lab05
 ## Tasks
 Hoàn thành các bản thiết kế cho subsystems (các class diagrams và sequence diagrams), có đính kèm file Asta
+
+
+# Lab05 (tiếp)
+## Tasks
+Hoàn thành các bản thiết kế cho các lớp (Class Design), có đính kèm file Asta
