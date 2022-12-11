@@ -30,3 +30,8 @@ Hoàn thành các bản thiết kế cho các lớp (Class Design), có đính k
 # Lab06 
 ## Tasks
 Hoàn thành các refactoring và thêm javadoc cho code, fix code
+
+# Lab07 
+## Tasks
+Hoàn thành tài liệu đánh giá coupling và solid structure cho aimss
+
