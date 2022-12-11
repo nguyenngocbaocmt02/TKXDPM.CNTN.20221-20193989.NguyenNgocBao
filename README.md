@@ -25,3 +25,8 @@ Hoàn thành các bản thiết kế cho subsystems (các class diagrams và seq
 # Lab05 (tiếp)
 ## Tasks
 Hoàn thành các bản thiết kế cho các lớp (Class Design), có đính kèm file Asta
+
+
+# Lab06 
+## Tasks
+Hoàn thành các refactoring và thêm javadoc cho code, fix code
